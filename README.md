@@ -1,6 +1,6 @@
 # Pong Game
 
-Welcome to the Pong Game, a classic arcade-style gaming experience implemented using the Pygame library. This README will guide you through the setup, gameplay, and customization options available in this game.
+Welcome to the Pong Game, a classic arcade-style gaming experience implemented using the Turtle library. This README will guide you through the setup, gameplay, and customization options available in this game.
 
 **Table of Contents**
 
@@ -16,7 +16,7 @@ To play the Pong Game on your local machine, follow these steps:
 1. **Clone the Repository:** Start by cloning this repository to your local machine using the following command:
 `git clone https://github.com/itisgj/Pong-Game.git`
 
-2. **Install Pygame:** Ensure you have Turtle installed on your machine. Also, import WinSound to play the audio files. If you don't have Turtle already, you can install it using pip:
+2. **Install Turtle:** Ensure you have Turtle installed on your machine. Also, import WinSound to play the audio files. If you don't have Turtle already, you can install it using pip:
 `pip install turtle`
 
 3. **Run the Game:** Navigate to the cloned repository's directory and run the game:
